@@ -1,0 +1,21 @@
+{
+  "name": "pinkie",
+  "displayName": "pinkie",
+  "description": "Something for the pinkie girls in tech!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "pinkie",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pinkie-color-theme.json"
+      }
+    ]
+  }
+}
